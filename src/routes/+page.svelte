@@ -14,7 +14,7 @@
 			<p class="py-6">
 				FxM is a fixture management programme that aids in managing the fixtures in your business.
 			</p>
-			<button class="btn btn-primary">Get Started</button>
+			<a class="btn btn-primary" href="/add-fixture">Get Started</a>
 		</div>
 	</div>
 </div>

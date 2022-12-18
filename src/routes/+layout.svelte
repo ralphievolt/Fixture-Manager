@@ -3,7 +3,7 @@
 </script>
 
 <div>
-	<div class="navbar bg-primary text-blue-700">
+	<div class="navbar bg-primary text-base-100">
 		<div class="navbar-start">
 			<div class="dropdown">
 				<label tabindex="0" class="btn btn-ghost btn-circle">
@@ -33,7 +33,7 @@
 			</div>
 		</div>
 		<div class="navbar-center">
-			<a class="btn btn-ghost normal-case text-xl ">FxM</a>
+			<a href="/" class="btn btn-ghost normal-case text-xl ">FxM</a>
 		</div>
 		<div class="navbar-end">
 			<button class="btn btn-ghost btn-circle">
